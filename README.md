@@ -33,4 +33,16 @@ This repository will be containing the topic related to spring-boot, mongodb and
  - [x] Swagger for API management
  - [ ] Unit tests 
 
+## Snapshots
+
+* Swagger API Spec for multiple collections interactions example
+
+ ![Swagger API Spec for multiple collections interactions example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-collections-interactions/images/Swagger_API_Spec-mongo-collections-consolidation.PNG)
  
+ * MongoDB structure for multiple collections interactions example
+ 
+ ![MongoDB structure for multiple collections interactions example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-collections-interactions/images/mongodb_compass_structure.PNG)
+
+* Multiple collections Consolidated output
+
+ ![Multiple collections Consolidated output](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-collections-interactions/images/consolidated_output.PNG)
