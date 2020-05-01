@@ -1,0 +1,9 @@
+[{
+  "_id": "C5000",
+  "agentId": "123",
+  "fax": "fax-5000",
+  "mobile": "897656453",
+  "postalAddress": "Bengaluru",
+  "country": "India",
+  "_class": "com.my.mongo.services.entity.Contact"
+}]
