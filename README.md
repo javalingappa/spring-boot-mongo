@@ -30,6 +30,11 @@
  - [ ] Unit tests 
 
 ## Snapshots
+
+* Swagger API Spec for CRUD example
   
  ![Swagger API Spec for CRUD example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-crud-operations/images/swagger_api_spec.PNG)
+ 
+ * MongoDB structure for CRUD example
+ 
  ![MongoDB structure for CRUD example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-crud-operations/images/mongo_database_structure_Claim_schema.PNG)
