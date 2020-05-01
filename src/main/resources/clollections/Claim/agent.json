@@ -1,0 +1,16 @@
+[{
+  "_id": "123",
+  "name": "Supportmyjob",
+  "address": "Bengaluru",
+  "contactName": "Java",
+  "phone": "9008844889",
+  "email": "java@gmail.com",
+  "company": "American MNC"
+},{
+  "_id": "456",
+  "name": "Engineer",
+  "address": "Amaravathi",
+  "contactName": "Patel",
+  "phone": "987456321",
+  "email": "Patel@gmail.com"
+}]

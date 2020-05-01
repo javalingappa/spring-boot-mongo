@@ -1,0 +1,15 @@
+[{
+  "_id": "ad123",
+  "agentId": "123",
+  "adNumber": 900,
+  "details": "I am agent details",
+  "state": "Karnataka",
+  "_class": "com.my.mongo.services.entity.AgentDetail"
+},{
+  "_id": "ad9001",
+  "agentId": "456",
+  "adNumber": 9001,
+  "details": "I am agent details 9001",
+  "state": "Andhrapradesh",
+  "_class": "com.my.mongo.services.entity.AgentDetail"
+}]
