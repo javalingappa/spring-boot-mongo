@@ -27,4 +27,12 @@
  - [x] Swagger for API management
  - [ ] Unit tests 
 
+ ## Snapshots
+
+* Swagger API Spec for simple springboot and MongDB integration example
+
+ ![Swagger API Spec for simple springboot and MongDB integration example](https://github.com/javalingappa/spring-boot-mongo/blob/master/images/swagger_api_spec.PNG)
  
+ * MongoDB structure for simple springboot and MongDB integration example
+ 
+ ![MongoDB structure for simple springboot and MongDB integration example](https://github.com/javalingappa/spring-boot-mongo/blob/master/images/Mongo_Collecction_Structure.PNG)
