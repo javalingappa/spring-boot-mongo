@@ -30,8 +30,8 @@ public class SwaggerConfig {
                 "This is used to demo agent claim details using springboot and mongo db",
                 "Developed for support my job",
                 "Terms of service",
-                new Contact("My Mongo Services Team", "and Email id is", "learnjavacoding@gmail.com"),
-                "License of API is under info@supportmyjob.com",
+                new Contact("My Mongo Services Team", "and Email id is", "https://github.com/javalingappa/"),
+                "License of API is under https://github.com/javalingappa/",
                 "",
                 Collections.emptyList());
     }

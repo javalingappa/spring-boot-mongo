@@ -1,8 +1,0 @@
-[{
-  "_id": "I6000",
-  "agentId": "123",
-  "insuredNumber": 6000,
-  "place": "Hyderabad",
-  "type": "claim",
-  "_class": "com.my.mongo.services.entity.Insured"
-}]

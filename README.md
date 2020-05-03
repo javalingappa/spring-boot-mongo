@@ -1,4 +1,4 @@
-# Springboot and  Mongo Database integration work
+# Springboot and  Mongo Database  - without creating entity and repository class
 
 This repository will be containing the topic related to spring-boot, mongodb and examples
 
@@ -13,8 +13,8 @@ This repository will be containing the topic related to spring-boot, mongodb and
 
 ## How to run this application ##
  * git clone https://github.com/javalingappa/spring-boot-mongo.git
- * get checkout spring-boot-mongo-collections-interactions
- * cd spring-boot-mongo-collections-interactions
+ * get checkout spring-boot-mongo-without-entity-repository
+ * cd spring-boot-mongo-without-entity-repository
  * mvn clean install
  * cd target 
  * java -jar my-mongo-services-1.1.0-SNAPSHOT.jar
@@ -25,12 +25,19 @@ This repository will be containing the topic related to spring-boot, mongodb and
  
  ## Tasks Status ##
  
- - [x] API's to generate data for different collections like agent, agentdetail, contact, insured and lossdetails
- - [x] API to create custom consolidated data of all the above based on the agentId in traditional slect and set way (repositories)
- - [x] API to create consolidated data of all the above mentioned collecctions using mongodb Aggregates functionalities
+ - [x] API to fetch and store the data to collections without using enttity and repository classes in java
  - [x] Demonustrated Aggregates like $lookup and $unwind
  - [x] Used Mongo database 4.X
  - [x] Swagger for API management
  - [ ] Unit tests 
 
+## Snapshots
+
+* Swagger API Spec for this example
+  
+ ![Swagger API Spec for this example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-without-entity-repository/images/swagger_spec.PNG)
+ 
+ * MongoDB structure for this example
+ 
+ ![MongoDB structure for this example](https://github.com/javalingappa/spring-boot-mongo/blob/spring-boot-mongo-without-entity-repository/images/mongoDB_Structure.PNG)
  
